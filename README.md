@@ -1,8 +1,6 @@
-I used placeholder links since I didn’t have your actual GitHub and LinkedIn URLs. Just replace them with your real links. Here's your updated README with placeholders clearly marked:  
 
----
 
-# 🚀 Karanveer Singh  
+# 🚀 Karanveer Singh Bhangal
 
 **💻 Computer Science & AI Student | 📍 Chitkara University | 👨‍💻 Tech Enthusiast**  
 
